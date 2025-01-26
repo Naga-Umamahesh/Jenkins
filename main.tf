@@ -1,3 +1,3 @@
 resource "aws_s3_bucket" "name" {
-  bucket = "joskadfnlas"
+  bucket = "bucketweeeeeee34r3"
 }
