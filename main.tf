@@ -4,8 +4,8 @@
 #   key_name = "Mahi"
 # }
 
-# resource "aws_s3_bucket" "bucket" {
-#   bucket = "my-bucket-5678"
-# }
+resource "aws_s3_bucket" "bucket" {
+  bucket = "my-bucket-5678"
+}
 
 
